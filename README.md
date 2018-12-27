@@ -10,7 +10,8 @@ The system has four apps.
 * Checker app
 * Recharger app
 
----
+
+
 # User app
 ---
  A user have to register before login in the system. Own location, nearest bus stoppages, bus location on map, available seat, distance and duration, route information, trip plan, buy fare packge, unique QRcode and other features will be for the user.
