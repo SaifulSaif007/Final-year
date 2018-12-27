@@ -5,7 +5,7 @@
 
 The system has four apps.
 
-*User app
-*Bus app
-*Checker app
-*Recharger app
+* User app
+* Bus app
+* Checker app
+* Recharger app
