@@ -3,4 +3,9 @@
 
 
 
-There are four app for maintaining the system
+The system has four apps.
+
+*User app
+*Bus app
+*Checker app
+*Recharger app
